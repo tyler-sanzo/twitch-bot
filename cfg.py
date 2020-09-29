@@ -3,9 +3,9 @@
 
 HOST = "irc.chat.twitch.tv"
 PORT = 6667
-NICK = "yoinkmyclip"
-PASS = "oauth:esugdjoflt11wpr9lbedcu840kap9v"
-CHAN = "#bestmeme"
+NICK = "your name"
+PASS = "token"
+CHAN = "#channel"
 RATE = (20/30)
 
 oplist={}
